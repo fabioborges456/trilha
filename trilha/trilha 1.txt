@@ -1,0 +1,50 @@
+1- Fundamentos da Linguagem Java:
+Variáveis, tipos de dados e operadores.
+Estruturas de controle de fluxo: if, else, switch, loops.
+Arrays e coleções básicas.
+
+2- Orientação a Objetos:
+Classes e objetos.
+Encapsulamento, herança, polimorfismo e abstração.
+Interfaces e classes abstratas.
+Tratamento de exceções.
+
+3- Manipulação de Strings:
+Operações básicas com strings.
+Formatação de strings.
+Expressões regulares.
+
+4 - Coleções em Java:
+Listas, conjuntos e mapas.
+Operações básicas e iteração.
+
+5 -Entrada e Saída (I/O):
+Leitura e escrita de arquivos.
+Utilização de fluxos de entrada e saída.
+
+6- Programação Concorrente:
+Threads em Java.
+Sincronização e comunicação entre threads.
+Utilização do pacote java.util.concurrent.
+
+7 - Programação Funcional em Java:
+Lambdas e expressões lambda.
+Streams e operações de pipeline.
+
+8 -Bibliotecas e Frameworks:
+Introdução ao uso de bibliotecas populares como Spring, Hibernate, etc.
+
+9 -Desenvolvimento Web com Java:
+Servlets e JSP.
+Frameworks web como Spring MVC, JSF, etc.
+
+10 -Persistência de Dados:
+JDBC para acesso a bancos de dados relacionais.
+JPA e Hibernate para mapeamento objeto-relacional.
+
+11 -Testes em Java:
+JUnit para testes unitários.
+Testes de integração e testes de sistema.
+
+12- Ferramentas de Build e Gerenciamento de Dependências:
+Maven ou Gradle para gerenciamento de dependências e construção de projetos.
